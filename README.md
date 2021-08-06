@@ -1,9 +1,8 @@
-### 👋 Hi there, I’m Justin Hwang
+### 👋 Hi there
 
-## I am a frontend Developer working at IWOCA
-
+## I am a frontend Developer
 - 👀 I’m interested in React and React Frameworks
-- 🌱 I’m currently learning GraphQL and Docker
+- 🌱 I’m currently learning Gatsby and GraphQL
 - 📫 You can reach me at jstnwhang@gmail.com
 
 <!---
