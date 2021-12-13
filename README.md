@@ -7,7 +7,7 @@
 
 ---
 
-<img align="left" alt="Justin's github stats" src="https://github-readme-stats.vercel.app/api?username=jstnhwang&show_icons=true&hide_borders=true&theme=dark" />
+<img align="left" alt="Justin's github stats" src="https://github-readme-stats.vercel.app/api?username=jstnhwang&show_icons=true&hide_borders=true&hide_title=true&theme=dark" />
 
 <!---
 jstnhwang/jstnhwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
