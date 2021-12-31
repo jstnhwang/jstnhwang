@@ -1,4 +1,4 @@
-## Frontend Dev 
+## About Me
 - 👀 Interested in Frontend Frameworks, npm libraries
 - 🌱 Currently focusing in scalable React app with Typescript
 - 💡 Learning Solidity to write smart contracts
