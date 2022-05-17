@@ -1,6 +1,6 @@
 ## About Me
 - 👀 Interested in Frontend Frameworks, npm libraries
-- 🌱 Currently focusing in scalable React app with Typescript
+- 🌱 Currently focusing in scalable React app with Next.js
 - 💡 Learning Solidity to write smart contracts
 - 📫 You can reach me at jstnwhang@gmail.com
 - 📍 London, United Kingdom
